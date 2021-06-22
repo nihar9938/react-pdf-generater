@@ -36,3 +36,50 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  max-width: 1024px;
+  max-height: 584px;
+  padding: 50px;
+}
+
+.hospital-detail {
+  color: green;
+  font-size: medium;
+}
+.image {
+  height: 250px;
+  width: 250px;
+  border-radius: 8px;
+  margin: 4px;
+}
+
+.button1 {
+  border: none;
+  width: 141px;
+  height: 37px;
+  background: #ff6750;
+  border-radius: 8px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  color: #f2f8fc;
+  margin: 4px;
+}
+
+.button2 {
+  background: #455674;
+  border-radius: 8px;
+  width: 134px;
+  height: 37px;
+  font-family: "poppins", sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+  color: #f2f8fc;
+  border: none;
+}
